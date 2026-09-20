@@ -1,0 +1,7 @@
+# Ignore the permanent memory database
+agent_brain/
+
+# Ignore Python cache files
+__pycache__/
+
+.env
